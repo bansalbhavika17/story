@@ -1,1 +1,10 @@
-It was the last time.
+It was the first ;} time.
+git init
+git status
+git add .
+git log
+git commit -m " commited"
+git diff chname
+git checkout
+
+
